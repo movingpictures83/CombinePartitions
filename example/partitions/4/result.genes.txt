@@ -1,0 +1,4 @@
+genome
+NZ_NXNG01000019_Butyrivibrio
+NZ_NXNG01000049_Butyrivibrio
+NZ_NXNG01000033_Butyrivibrio

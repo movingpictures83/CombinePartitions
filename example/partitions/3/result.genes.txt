@@ -1,0 +1,6 @@
+genome
+NZ_CP072261_Bacteroides
+NZ_AP025238_Phocaeicola
+NZ_CP072260_Bacteroides
+NZ_AP025239_Phocaeicola
+NZ_LR135359_Enterococcus

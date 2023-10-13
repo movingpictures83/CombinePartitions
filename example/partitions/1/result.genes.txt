@@ -1,0 +1,3 @@
+genome
+NZ_CP103223_Parabacteroides
+NZ_ABHE02000055_Clostridioides

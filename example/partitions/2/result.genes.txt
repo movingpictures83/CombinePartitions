@@ -1,0 +1,2 @@
+genome
+NZ_CP094681_Sellimonas
